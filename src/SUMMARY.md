@@ -3,7 +3,6 @@
 - [Introduction](README.md)
   - [The importance of problem-solving](chapter-1-1.md)
   - [Understanding the benefits of innovative problem-solving](chapter-1-2.md)
-  - [Overview of the book's contents](chapter-1-3.md)
 - [Chapter 1: Defining Problem-Solving and Innovation](chapter-2.md)
   - [What is problem-solving?](chapter-2-1.md)
   - [What is innovation?](chapter-2-2.md)
