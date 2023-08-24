@@ -1,5 +1,3 @@
-Understanding Systems Thinking
-===========================================================
 
 Systems thinking is an approach to problem-solving that emphasizes the interconnectedness of different elements within a system. In this chapter, we will explore the basics of systems thinking.
 

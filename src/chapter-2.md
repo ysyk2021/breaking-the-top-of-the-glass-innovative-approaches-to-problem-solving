@@ -1,5 +1,3 @@
-Chapter 1: Defining Problem-Solving and Innovation
-==================================================
 
 Innovation and problem-solving are critical for success in today's rapidly changing world. In this chapter, we'll define problem-solving and innovation, explore their roles in personal growth, and provide strategies for embracing innovative problem-solving.
 

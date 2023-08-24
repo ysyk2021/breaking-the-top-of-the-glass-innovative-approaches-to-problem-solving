@@ -1,5 +1,3 @@
-Understanding Traditional Problem-Solving Approaches
-==========================================================================================================
 
 Traditional approaches to problem-solving have been used for decades and involve a linear, step-by-step process. In this chapter, we'll explore traditional approaches to problem-solving and how they work.
 

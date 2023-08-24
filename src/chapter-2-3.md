@@ -1,5 +1,3 @@
-The Role of Problem-Solving and Innovation in Personal Growth
-=================================================================================================================
 
 Problem-solving and innovation not only play a critical role in achieving success in organizations, but also in personal growth. In this chapter, we'll explore the role of problem-solving and innovation in personal growth.
 

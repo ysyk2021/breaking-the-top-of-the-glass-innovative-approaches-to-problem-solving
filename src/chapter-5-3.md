@@ -1,5 +1,3 @@
-Lateral Thinking and Analogy
-============================================================================
 
 Lateral thinking and analogy are creative problem-solving techniques that involve looking at problems from unconventional angles and finding similarities between unrelated things to generate new ideas. In this chapter, we will explore these techniques in more detail.
 

@@ -1,5 +1,3 @@
-Chapter 8: Overcoming Obstacles to Innovative Problem-Solving
-=============================================================
 
 Innovation is essential for businesses and individuals alike to solve complex problems in the modern world. However, innovative problem-solving can be hampered by various obstacles. In this chapter, we will explore common obstacles to innovative problem-solving and strategies for overcoming them. We will also discuss ways to build a culture of innovation and how to overcome the fear of vulnerability.
 
@@ -48,5 +46,4 @@ Overcoming fear of vulnerability
 3. Foster trust: Build trust within teams by establishing clear expectations, communicating openly, and valuing diverse perspectives.
 
 In conclusion, overcoming obstacles to innovative problem-solving requires a commitment to experimentation, creativity, and collaboration. Building a culture of innovation requires a shared vision, effective communication, and a willingness to take risks. Overcoming the fear of vulnerability is critical to fostering an environment where individuals feel safe to share their ideas and experiment with new approaches.
-
 

@@ -1,5 +1,3 @@
-What is innovation?
-=======================================================================
 
 Innovation is a term that is often used to describe new ideas, products, or services that add value to society. However, the definition of innovation can vary depending on the context in which it is used. In this chapter, we will explore the definition of innovation and its various forms.
 

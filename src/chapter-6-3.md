@@ -1,5 +1,3 @@
-Building Empathy and Understanding
-==============================================================
 
 Design thinking is a problem-solving approach that emphasizes empathy and understanding. By building empathy for the people impacted by the problem, individuals and organizations can develop solutions that better meet their needs. In this chapter, we'll explore how design thinking can be used to build empathy and understanding.
 

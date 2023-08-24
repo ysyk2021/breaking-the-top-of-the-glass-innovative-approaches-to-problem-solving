@@ -1,5 +1,3 @@
-The Principles of Design Thinking
-=============================================================
 
 Design thinking is a problem-solving approach that emphasizes empathy, creativity, and experimentation. In this chapter, we will explore the principles of design thinking.
 

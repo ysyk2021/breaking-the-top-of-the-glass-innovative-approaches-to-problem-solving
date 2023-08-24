@@ -1,5 +1,3 @@
-Chapter 3: Traditional Approaches to Problem-Solving
-====================================================
 
 Traditional approaches to problem-solving have been used for decades and involve a linear, step-by-step process. In this chapter, we'll explore traditional approaches to problem-solving, their limitations, strategies for improving them, and overcoming resistance to change.
 

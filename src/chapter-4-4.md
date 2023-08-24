@@ -1,5 +1,3 @@
-Overcoming Resistance to Change
-=====================================================================================
 
 Traditional approaches to problem-solving can often encounter resistance to change. In this chapter, we will explore how to overcome resistance to change when using traditional problem-solving methods.
 

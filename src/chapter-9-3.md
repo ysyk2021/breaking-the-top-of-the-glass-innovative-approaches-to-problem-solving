@@ -1,5 +1,3 @@
-Building a Culture of Innovation
-===============================================================================================
 
 Building a culture of innovation is essential for overcoming obstacles to innovative problem-solving. In this chapter, we'll explore strategies for building a culture of innovation that promotes creative problem-solving and overcomes obstacles.
 

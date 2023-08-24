@@ -1,5 +1,3 @@
-Overcoming Limiting Beliefs About Problem-Solving and Innovation
-===================================================================================================================
 
 Our beliefs about problem-solving and innovation can impact our ability to generate creative solutions. Limiting beliefs can hold us back and prevent us from exploring new ideas or taking risks. In this chapter, we'll explore strategies for overcoming limiting beliefs about problem-solving and innovation.
 

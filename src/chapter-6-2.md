@@ -1,5 +1,3 @@
-Applying Design Thinking to Problem-Solving
-=======================================================================
 
 Design thinking is a problem-solving approach that emphasizes empathy, creativity, and experimentation. In this chapter, we will explore how to apply design thinking to problem-solving.
 

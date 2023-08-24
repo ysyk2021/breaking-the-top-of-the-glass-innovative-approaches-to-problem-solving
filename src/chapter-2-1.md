@@ -1,5 +1,3 @@
-What is problem-solving?
-============================================================================
 
 Problem-solving is a critical process that involves identifying, analyzing, and resolving problems. It is an essential skill that individuals and organizations need to possess to succeed in today's complex world. Problem-solving can take many forms, ranging from simple, everyday challenges to complex, global issues.
 

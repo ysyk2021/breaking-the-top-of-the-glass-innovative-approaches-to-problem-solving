@@ -1,5 +1,3 @@
-Chapter 9: Sustaining Innovative Problem-Solving
-================================================
 
 Innovative problem-solving is not a one-time event, but rather a continuous process of identifying and addressing challenges. However, sustaining innovation over the long-term can be challenging. In this chapter, we will explore strategies for maintaining motivation and inspiration, overcoming burnout and exhaustion, and building a support system to sustain innovative problem-solving.
 

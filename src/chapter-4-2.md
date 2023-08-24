@@ -1,5 +1,3 @@
-The Limitations of Traditional Problem-Solving
-====================================================================================================
 
 Traditional approaches to problem-solving have been used for decades and involve a linear, step-by-step process. While these approaches have been effective in certain contexts, they have several limitations that can hinder innovation and creativity. In this chapter, we'll explore the limitations of traditional problem-solving.
 

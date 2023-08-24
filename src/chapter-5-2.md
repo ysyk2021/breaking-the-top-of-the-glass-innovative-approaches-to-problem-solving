@@ -1,5 +1,3 @@
-Brainstorming and Mind Mapping
-==============================================================================
 
 Brainstorming and mind mapping are two creative problem-solving techniques that can help individuals and organizations generate a wide range of potential solutions. In this chapter, we will explore these techniques in more detail.
 

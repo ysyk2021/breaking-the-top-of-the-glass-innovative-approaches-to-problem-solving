@@ -1,5 +1,3 @@
-Building a Support System
-===========================================================================
 
 Sustaining innovative problem-solving requires ongoing effort and dedication. Building a support system can help individuals and organizations stay motivated and on track towards achieving their goals. In this chapter, we'll explore strategies for building a support system to sustain innovative problem-solving.
 

@@ -1,5 +1,3 @@
-Strategies for Building Self-Confidence
-==========================================================================================
 
 Self-confidence is an essential component of a mindset for innovative problem-solving. When we believe in ourselves and our abilities, we're more likely to take risks, think creatively, and persevere in the face of challenges. In this chapter, we'll explore strategies for building self-confidence.
 

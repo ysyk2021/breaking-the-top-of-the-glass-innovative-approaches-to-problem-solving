@@ -1,5 +1,3 @@
-Chapter 6: Systems Thinking
-===========================
 
 Systems thinking is a problem-solving approach that considers the interconnectedness of different elements within a system. In this chapter, we will explore the basics of systems thinking, how to apply it to problem-solving, building a holistic perspective, and overcoming complexity.
 

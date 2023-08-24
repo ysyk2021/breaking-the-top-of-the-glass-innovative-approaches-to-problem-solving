@@ -1,5 +1,3 @@
-Building a Supportive Problem-Solving Network
-=======================================================================================
 
 Collaborative problem-solving involves working with others to develop creative solutions to complex problems. Building a supportive problem-solving network can help individuals and organizations overcome challenges and achieve success in problem-solving. In this chapter, we'll explore strategies for building a supportive problem-solving network.
 

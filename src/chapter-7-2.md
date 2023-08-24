@@ -1,5 +1,3 @@
-Applying Systems Thinking to Problem-Solving
-=========================================================================
 
 Systems thinking is an approach to problem-solving that emphasizes the interconnectedness of different elements within a system. In this chapter, we will explore how to apply systems thinking to problem-solving.
 

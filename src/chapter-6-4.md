@@ -1,5 +1,3 @@
-Overcoming Fear of Failure
-======================================================
 
 Design thinking is a problem-solving approach that emphasizes creativity, empathy, and experimentation. It can help individuals and organizations overcome the fear of failure and develop innovative solutions to complex problems. In this chapter, we'll explore how design thinking can be used to overcome fear of failure.
 

@@ -1,5 +1,3 @@
-The Importance of Collaboration in Problem-Solving
-============================================================================================
 
 Collaboration is essential to effective problem-solving. In this chapter, we will explore the importance of collaboration in problem-solving.
 

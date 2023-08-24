@@ -1,5 +1,3 @@
-How to Embrace Innovative Problem-Solving
-=============================================================================================
 
 Innovation is critical for success in today's rapidly changing world, and effective problem-solving is essential for achieving innovation. In this chapter, we'll define problem-solving and innovation, and explore strategies for embracing innovative problem-solving.
 

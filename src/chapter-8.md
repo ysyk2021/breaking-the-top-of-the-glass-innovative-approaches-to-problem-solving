@@ -1,5 +1,3 @@
-Chapter 7: Collaborative Problem-Solving
-========================================
 
 Collaborative problem-solving involves working together with others to develop effective solutions to complex challenges. In this chapter, we will explore the importance of collaboration in problem-solving and provide strategies for effective collaborative problem-solving.
 

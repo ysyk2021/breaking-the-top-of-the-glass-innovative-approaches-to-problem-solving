@@ -1,5 +1,3 @@
-Developing a Growth Mindset
-==============================================================================
 
 A growth mindset is essential for innovative problem-solving. It involves believing that our abilities can be developed through hard work and dedication. In this chapter, we'll explore strategies for developing a growth mindset.
 

@@ -1,5 +1,3 @@
-Chapter 5: Design Thinking
-==========================
 
 Design thinking is a problem-solving approach that emphasizes empathy, creativity, and experimentation. In this chapter, we will explore the principles of design thinking, how to apply it to problem-solving, building empathy and understanding, and overcoming fear of failure.
 

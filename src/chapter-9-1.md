@@ -1,5 +1,3 @@
-Understanding common obstacles to innovative problem-solving
-===========================================================================================================================
 
 Innovative problem-solving is essential for individuals and organizations to succeed in today's complex world. However, there are several common obstacles that can hinder the process of developing innovative solutions. In this chapter, we will explore some of these obstacles and how they can be overcome.
 

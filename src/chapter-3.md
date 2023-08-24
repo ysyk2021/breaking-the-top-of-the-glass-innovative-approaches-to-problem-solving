@@ -1,5 +1,3 @@
-Chapter 2: Mindset for Innovative Problem-Solving
-=================================================
 
 A mindset for innovative problem-solving is essential for individuals and organizations looking to develop creative solutions. In this chapter, we'll explore strategies for developing a growth mindset, overcoming limiting beliefs about problem-solving and innovation, building self-confidence, and the power of positive thinking.
 
@@ -34,5 +32,4 @@ Conclusion
 ----------
 
 Developing a mindset for innovative problem-solving requires a combination of strategies, including developing a growth mindset, overcoming limiting beliefs, building self-confidence, and promoting positive thinking. Remember, developing a positive mindset is an ongoing process that requires practice and patience. By adopting these strategies, individuals and organizations can unlock their full potential for creative problem-solving.
-
 

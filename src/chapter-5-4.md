@@ -1,5 +1,3 @@
-Visualization and Simulation
-============================================================================
 
 Visualization and simulation are creative problem-solving techniques that can help individuals and organizations develop innovative solutions to complex problems. In this chapter, we will explore these techniques in more detail.
 

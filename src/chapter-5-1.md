@@ -1,5 +1,3 @@
-Understanding Different Creative Problem-Solving Techniques
-===========================================================================================================
 
 Creative problem-solving requires an open and innovative mindset. In this chapter, we will explore different creative problem-solving techniques that individuals and organizations can use to develop effective solutions.
 

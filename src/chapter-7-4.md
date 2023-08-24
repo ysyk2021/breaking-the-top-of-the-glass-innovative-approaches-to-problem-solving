@@ -1,5 +1,3 @@
-Overcoming Complexity
-==================================================
 
 Systems thinking is an approach to problem-solving that involves understanding the interrelated components of a system and how they interact with each other. This approach is particularly useful when dealing with complex challenges where multiple factors are contributing to the problem. In this chapter, we will explore systems thinking and how it can help individuals and organizations overcome complexity.
 

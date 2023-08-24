@@ -1,5 +1,3 @@
-Strategies for Overcoming Obstacles
-==================================================================================================
 
 Innovative problem-solving can face many obstacles, but there are strategies that individuals and organizations can adopt to overcome these challenges. In this chapter, we'll explore strategies for overcoming obstacles to innovative problem-solving.
 

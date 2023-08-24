@@ -1,5 +1,3 @@
-The Power of Positive Thinking
-=================================================================================
 
 The mindset we bring to problem-solving can have a significant impact on our ability to generate innovative solutions. In this chapter, we'll explore the power of positive thinking in problem-solving and how it can lead to greater creativity and innovation.
 

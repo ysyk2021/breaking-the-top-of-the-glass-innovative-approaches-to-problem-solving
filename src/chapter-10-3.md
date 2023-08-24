@@ -1,5 +1,3 @@
-Overcoming Burnout and Exhaustion
-===================================================================================
 
 Sustaining innovative problem-solving requires ongoing effort and dedication, but it's important to avoid burnout and exhaustion along the way. In this chapter, we'll explore strategies for overcoming burnout and exhaustion while sustaining innovative problem-solving.
 

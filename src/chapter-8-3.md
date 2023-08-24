@@ -1,5 +1,3 @@
-Overcoming Communication Barriers
-===========================================================================
 
 Collaborative problem-solving involves working with others to develop creative solutions to complex problems. Effective communication is essential for successful collaboration, but communication barriers can hinder the process. In this chapter, we'll explore strategies for overcoming communication barriers in collaborative problem-solving.
 

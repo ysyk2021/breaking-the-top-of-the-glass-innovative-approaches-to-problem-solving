@@ -1,5 +1,3 @@
-Building a Holistic Perspective
-============================================================
 
 Systems thinking is an approach to problem-solving that emphasizes the interconnectedness of different elements within a system. In this chapter, we will explore how to build a holistic perspective through systems thinking.
 
