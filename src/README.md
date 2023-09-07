@@ -8,3 +8,7 @@ Throughout this book, you will learn how to break down complex problems into man
 Whether you are an individual looking to improve your problem-solving skills or an organization seeking to foster a culture of innovation, "Breaking the Top of the Glass" is a valuable resource. This book will provide you with practical strategies and insights that you can use to overcome obstacles and achieve your goals.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
