@@ -1,5 +1,4 @@
-Chapter 6: Overcoming Burnout and Exhaustion
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In our pursuit of innovative problem-solving, we often encounter the insidious challenges of burnout and exhaustion. This chapter is dedicated to understanding the causes, consequences, and innovative strategies for overcoming these hurdles, ensuring that our quest for solutions does not come at the expense of our well-being.
 

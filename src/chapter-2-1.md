@@ -1,5 +1,4 @@
-Chapter 1: What is Problem-Solving?
-===================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the book "Breaking the Top of the Glass: Innovative Approaches to Problem Solving," we embark on a journey to explore the essence of problem-solving. This chapter lays the foundation by defining problem-solving, its significance, and why it forms the bedrock of innovation.
 

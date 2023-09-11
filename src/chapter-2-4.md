@@ -1,5 +1,4 @@
-Chapter 4: How to Embrace Innovative Problem-Solving
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the book "Breaking the Top of the Glass: Innovative Approaches to Problem Solving," we delve into the exciting realm of innovative problem-solving. In this chapter, we'll explore the strategies and mindset needed to fully embrace innovation in your approach to solving complex problems.
 

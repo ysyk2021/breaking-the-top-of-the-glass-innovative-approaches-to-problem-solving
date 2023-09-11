@@ -1,5 +1,4 @@
-Chapter 8: Sustaining Innovative Problem-Solving Over the Long-Term
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In our exploration of innovative approaches to problem-solving, we must address the challenge of maintaining creativity and effectiveness over an extended period. This chapter delves into strategies and principles that can help individuals and organizations sustain their innovative problem-solving capabilities over the long-term.
 

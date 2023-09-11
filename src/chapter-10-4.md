@@ -1,5 +1,4 @@
-Chapter 9: Building a Support System
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In our journey to explore innovative approaches to problem-solving, it's vital to recognize the role of a strong support system. This chapter delves into the importance of building a network of individuals and resources that can empower and sustain innovative problem-solving efforts.
 
